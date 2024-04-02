@@ -1,8 +1,8 @@
 const songs = [
   {
-    src: "path/to/your/song1.mp3",
-    title: "Song Title 1",
-    artist: "Artist Name 1",
+    src: "/[SPOTIFY-DOWNLOADER.COM] Dandelions.mp3",
+    title: "Dandelions",
+    artist: "Ruth B",
   },
   {
     src: "path/to/your/song2.mp3",
